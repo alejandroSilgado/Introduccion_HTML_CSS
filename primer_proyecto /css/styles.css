@@ -1,0 +1,60 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#page{
+    width: 1000px;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+}
+
+#header{
+    height: 200px;
+}
+
+#logo {
+
+    height: 200px;
+	width: 140px;
+	background-color: rgb(251, 0, 0);
+	border-radius: 1em;
+    margin: 0.5em;
+	float: left; 
+}
+
+#banner {
+
+    height: 200px;
+	width: 800px;
+	background-color: rgb(224, 98, 98);
+	border-radius: 1em;
+    margin-top: 0.5em;
+    margin-right: 0.5em;
+	float: right; 
+}
+
+#body {
+    height: 500px;
+    margin-top: 50px;
+}
+
+#article {
+    width: 700px;
+    height: 500px;
+    background-color: rgb(197, 224, 98);
+	border-radius: 1em;
+    margin: 0.5em;
+    float: left;
+}
+
+#aside {
+    width: 240px;
+    height: 500px;
+    background-color: rgb(98, 224, 201);
+	border-radius: 1em;
+    margin: 0.5em;
+    float: right;
+
+}
